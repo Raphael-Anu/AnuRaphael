@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :"/assets/images/88x88.png"
+  avatar           :"/assets/images/bio-photo"
 "
   name             : "Anu Raphael"
   pronouns         : # example: "she/her"  
