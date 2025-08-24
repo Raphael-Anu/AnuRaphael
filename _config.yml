@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anu Raphael"
+title                    : "/assets/images/Myprofilepic.jpg"
+"
 title_separator          : "-"
 name                     : &name "Anu Raphael"
 description              : &description "personal description"
