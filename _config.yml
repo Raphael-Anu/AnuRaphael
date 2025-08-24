@@ -9,8 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "/assets/images/Myprofilepic.jpg"
-"
+title                    : "Anu Raphael"
 title_separator          : "-"
 name                     : &name "Anu Raphael"
 description              : &description "personal description"
@@ -23,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Myprofilepic.jpg"
+  avatar           :"/assets/images/88x88.png"
+"
   name             : "Anu Raphael"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
