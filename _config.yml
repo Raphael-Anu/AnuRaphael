@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           :"profile.png"
+   # Biographic information
+  avatar           : "profile.png"
   name             : "Anu Raphael"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -30,6 +30,7 @@ author:
   employer         : "Red Brick University"
   uri              : # URL
   email            : "theanuraphael@gmail.com" 
+
 
   # Academic websites
   academia         : # URL
